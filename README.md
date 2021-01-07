@@ -216,9 +216,9 @@ UDP multicast address `239.255.0.100:30000`. To receive them you can use [socat]
 
 [PSDLE]: https://repod.github.io/psdle/
 [socat]: http://www.dest-unreach.org/socat/
-[pkgi_downloads]: https://github.com/bucanero/pkgi-ps3/releases
+[pkgi_downloads]: https://github.com/ErikPshat/PKGi-PS3-RUS-MOD/releases
 [pkgi_latest]: https://github.com/ErikPshat/PKGi-PS3-RUS-MOD/releases/latest
-[pkgi_license]: https://github.com/bucanero/pkgi-ps3/blob/master/LICENSE
-[img_downloads]: https://img.shields.io/github/downloads/bucanero/pkgi-ps3/total.svg?maxAge=3600
-[img_latest]: https://img.shields.io/github/release/bucanero/pkgi-ps3.svg?maxAge=3600
-[img_license]: https://img.shields.io/github/license/bucanero/pkgi-ps3.svg?maxAge=2592000
+[pkgi_license]: https://github.com/ErikPshat/PKGi-PS3-RUS-MOD/blob/master/LICENSE
+[img_downloads]: https://img.shields.io/github/downloads/ErikPshat/PKGi-PS3-RUS-MOD/total.svg?maxAge=3600
+[img_latest]: https://img.shields.io/github/release/ErikPshat/PKGi-PS3-RUS-MOD.svg?maxAge=3600
+[img_license]: https://img.shields.io/github/license/ErikPshat/PKGi-PS3-RUS-MOD.svg?maxAge=2592000
