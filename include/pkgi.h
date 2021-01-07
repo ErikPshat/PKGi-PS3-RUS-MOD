@@ -4,8 +4,8 @@
 #include <stdarg.h>
 #include "pkgi_dialog.h"
 
-#define PKGI_UPDATE_URL     "https://api.github.com/repos/bucanero/pkgi-ps3/releases/latest"
-#define PKGI_VERSION        "1.1.8"
+#define PKGI_UPDATE_URL     "https://api.github.com/repos/nikolaevich23/pkgi/releases/latest"
+#define PKGI_VERSION        "1.1.8.2"
 
 #define PKGI_BUTTON_SELECT 0x00010000
 #define PKGI_BUTTON_START  0x00080000

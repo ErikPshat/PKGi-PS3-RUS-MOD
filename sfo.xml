@@ -10,7 +10,7 @@
 		1
 	</value>
 	<value name="CATEGORY" type="string">
-		CB
+		HG
 	</value>
 	<value name="LICENSE" type="string">
 		This application was created with the official non-official SDK called PSL1GHT, for more information visit http://www.psl1ght.com/ . This is in no way associated with Sony Computer Entertainment Inc., please do not contact them for help, they will not be able to provide it.
@@ -28,7 +28,7 @@
 		279
 	</value>
 	<value name="TITLE" type="string">
-		PKGi PS3
+		PKGi PS3 RUS MOD
 	</value>
 	<value name="TITLE_ID" type="string">
 		NP00PKGI3
